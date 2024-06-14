@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Lavish Tyagi
 
 ## 🚀 About Me
-I am Lavish Tyagi, an enthusiastic Computer Science Engineering student in the pre-final year at DevBhoomi Uttarakhand University. I am passionate about web development and have developed strong problem-solving skills, which I believe are essential for success in this field. My dedication to learning and teamwork makes me a valuable asset to any team.
+I am a Computer Science Engineering student passionate about web development and problem-solving. Currently in my pre-final year at DevBhoomi Uttarakhand University, I enjoy exploring new technologies and contributing to meaningful projects.
 
 ## 🛠 Skills
 - **Frontend Development:** HTML, CSS, JavaScript, React.js, Bootstrap 5, Tailwind CSS
@@ -11,10 +11,24 @@ I am Lavish Tyagi, an enthusiastic Computer Science Engineering student in the p
 - **Problem Solving:** Algorithms, Data Structures
 - **Machine Learning:** Leveraging ML techniques for disease prediction
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning
 - MERN stack development (MongoDB, Express.js, React.js, Node.js)
 - Advanced JavaScript frameworks
 - Machine Learning algorithms
+
+## 🔭 I’m currently working on
+- **A project using the MERN stack with an admin panel for comprehensive management capabilities.**
+
+## 👯 I’m looking to collaborate on
+- Web development projects
+- Machine learning applications
+- Open-source contributions
+
+## 💬 Ask me about
+- MERN stack development
+- Frontend development with HTML, CSS, JavaScript, React.js
+- Data structures and algorithms
+- Machine learning techniques for predictive modeling
 
 ## 📫 How to reach me
 - Email: lavishkumar10797@gmail.com
