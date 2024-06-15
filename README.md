@@ -41,8 +41,9 @@ I am a Computer Science Engineering student passionate about web development and
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavishtyagi45&layout=compact&theme=radical)
 
 ## 🏆 Top Repositories
-![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Lavishtyagi45&repo=my-portfolio&theme=radical)
-![Data-Structures-And-Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=Lavishtyagi45&repo=Data-Structures-And-Algorithm&theme=radical)
-![disease-prediction-using-machine-learning](https://github-readme-stats.vercel.app/api/pin/?username=Lavishtyagi45&repo=disease-prediction-using-machine-learning&theme=radical)
+[![my-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Lavishtyagi45&repo=my-portfolio&theme=radical)](https://github.com/Lavishtyagi45/my-portfolio)
+[![Data-Structures-And-Algorithm](https://github-readme-stats.vercel.app/api/pin/?username=Lavishtyagi45&repo=Data-Structures-And-Algorithm&theme=radical)](https://github.com/Lavishtyagi45/Data-Structures-And-Algorithm)
+[![disease-prediction-using-machine-learning](https://github-readme-stats.vercel.app/api/pin/?username=Lavishtyagi45&repo=disease-prediction-using-machine-learning&theme=radical)](https://github.com/Lavishtyagi45/disease-prediction-using-machine-learning)
 
 ---
+
